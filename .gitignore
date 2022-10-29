@@ -1,0 +1,22 @@
+# OS generated files
+.DS_Store
+
+# reports
+output/
+report/
+allure/
+
+# logs
+npm-debug.log
+*.txt
+
+# Dependency directories
+node_modules/
+/.idea/
+
+# local files
+*/.local.*
+info_build.env
+
+# screenshots
+screenshots/
